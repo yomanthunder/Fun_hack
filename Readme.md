@@ -1,1 +1,1 @@
-# Building a agent using Trash Sdk mira - teri mkc
+# Building a agent using mira sdk 
